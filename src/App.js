@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Calculatorcommponent from './commponets/Calculator';
-import Cardcommponent from './commponets/Card';
+import Calculatorcommponent from './componets/Calculator';
+import Cardcommponent from './componets/Card';
 
 
 class App extends React.Component{
